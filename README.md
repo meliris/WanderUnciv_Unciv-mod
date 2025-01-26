@@ -1,1 +1,2 @@
-# WanderUnciv_Unciv-mod
+# WanderUnciv
++Wander +cityrange
