@@ -2,7 +2,9 @@
 {
 "constants" : {
 "cityWorkRange": 5
-"naturalWonderCountMultiplier": 0.5
+"naturalWonderCountMultiplier": 3
+
+"naturalWonderCountAddedConstant": 5
 }
 }
 ]
